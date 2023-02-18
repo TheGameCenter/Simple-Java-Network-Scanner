@@ -4,3 +4,6 @@ This is a simple Java software I wrote during my free time, it basically scans a
 **You can find the compiled jar (Java Executable) here:** [NetworkScanner.jar](https://github.com/TheGameCenter/Simple-Java-Network-Scanner/blob/main/bin/Builds/NetworkScanner.jar)
 
 And **The source .java file here:** [NetworkScannerGUI.java](https://github.com/TheGameCenter/Simple-Java-Network-Scanner/blob/main/src/NetworkScanner/java/NetworkScannerGUI.java)
+
+
+![](https://raw.githubusercontent.com/TheGameCenter/Simple-Java-Network-Scanner/main/bin/Builds/readme_img.png)
