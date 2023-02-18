@@ -7,3 +7,5 @@ And **The source .java file here:** [NetworkScannerGUI.java](https://github.com/
 
 
 ![](https://raw.githubusercontent.com/TheGameCenter/Simple-Java-Network-Scanner/main/bin/Builds/readme_img.png)
+
+Requirements: [Java JDK](https://www.oracle.com/java/technologies/downloads/#jdk19-windows)
