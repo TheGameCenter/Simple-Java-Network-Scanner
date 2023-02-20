@@ -9,3 +9,5 @@ And **The source .java file here:** [NetworkScannerGUI.java](https://github.com/
 ![](https://raw.githubusercontent.com/TheGameCenter/Simple-Java-Network-Scanner/main/bin/Builds/readme_img.png)
 
 Requirements: [Java JDK](https://www.oracle.com/java/technologies/downloads/#jdk19-windows)
+
+**Note: The source .java file is for NetworkScanner.jar, and not the patched version. The patched version fixes package and a module name, allowing me to build with no issues and actually allowing me to get this working on one of my other devices. Code for NetworkScannerPatched.jar will be up soon, despite it being almost exactly identical.**
